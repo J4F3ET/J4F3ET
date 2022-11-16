@@ -1,0 +1,8 @@
+.pie__lista{
+    width: 100vh;
+    display: flex;
+    justify-content: space-around;
+    font-family: var(--monserrant);
+    font-size: small;
+    font-weight: 100;
+}

@@ -1,0 +1,21 @@
+.navegador__lista{
+    height: 100%;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+@media(min-width:1200px){
+    .navegador__lista{
+        width: 25%;
+        margin: 0 2rem;
+        justify-content: space-between;
+    }
+}
+@media(max-width:320px){
+    .navegador__lista{
+        width: calc(100vw - 0.2rem);
+        margin: 0 2rem;
+    }
+}

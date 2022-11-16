@@ -1,0 +1,7 @@
+.navegador__lista__item:hover{
+    border-bottom: 1px solid #ffff;
+}
+.navegador__lista__item:active{
+    border: 1px solid #ffff ;
+    border-radius: 3px;
+}

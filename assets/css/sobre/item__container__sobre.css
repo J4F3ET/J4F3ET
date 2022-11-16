@@ -1,0 +1,7 @@
+.item__container__sobre{
+    width: 287px;
+}
+.item__container__sobre>p{
+    font-size: small;
+    margin: 1rem .5rem;
+}

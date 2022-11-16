@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="./assets/css/base.css">
+    <link rel="stylesheet" href="./assets/css/reset.css">
+    <link rel="stylesheet" href="./assets/css/navegador/navegador.css">
+    <link rel="stylesheet" href="./assets/css/navegador/navegador__lista.css">
+    <link rel="stylesheet" href="./assets/css/navegador/navegador__lista__item.css">
+    <link rel="stylesheet" href="./assets/css/banner/banner.css">
+    <link rel="stylesheet" href="./assets/css/proyectos.css/proyectos.css">
+    <link rel="stylesheet" href="./assets/css/proyectos.css/titulo__proyecto.css">
+    <link rel="stylesheet" href="./assets/css/proyectos.css/card_proyecto.css">
+    <link rel="stylesheet" href="./assets/css/tecnologias/tecnologias.css">
+    <link rel="stylesheet" href="./assets/css/tecnologias/card_tecnologia.css">
+    <link rel="stylesheet" href="./assets/css/tecnologias/titulo_tecnologias.css">
+    <link rel="stylesheet" href="./assets/css/sobre/titulo__sobre.css">
+    <link rel="stylesheet" href="./assets/css/sobre/sobre__container__text.css">
+    <link rel="stylesheet" href="./assets/css/sobre/item__container__sobre.css">
+    <link rel="stylesheet" href="./assets/css/sobre/lista__habilidades.css">
+    <link rel="stylesheet" href="./assets/css/footer/piePagina.css">
+    <link rel="stylesheet" href="./assets/css/footer/pie__lista.css">
+    <link rel="stylesheet" href="./assets/css/footer/pie__lista__item.css">
+    
+    <title>Portafolio</title>
+</head>
+<body>
+    <header class="encabezado">
+        <nav class="navegador">
+            <ul class="navegador__lista">
+                <li class="navegador__lista__item"><a href="#proyectos" class="lista__link">Proyectos<i class="fa-light fa-diagram-project"></i></a></li>
+                <li class="navegador__lista__item"><a href="#tecnologias" class="lista__link">Tecnologías</a></li>
+                <li class="navegador__lista__item"><a href="#sobre" class="lista__link">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="container">
+        <section class="banner">
+            <h1>Hola, soy Jafet. <br>Yo diseño y construyo<br> interfaces de usuario </h1>
+        </section>
+        <section  class="proyectos">
+            <div class="titulo">
+                <h2 id="proyectos">Proyectos</h2>
+            </div>
+            <div class="cards">
+                <a href="https://github.com/J4F3ET/PROYECTO-ADSI">
+                    <div class="card__proyecto SGU">
+                        <h3>Sistema de gestión de usuarios</h3>
+                    </div>
+                </a>
+                <a href="https://github.com/J4F3ET/ProyectoArbolesBinariosUD">
+                    <div class="card__proyecto CPP">
+                        <h3>C++</h3>
+                    </div>
+                </a>
+                <a href="https://github.com/J4F3ET/Alura">
+                    <div class="card__proyecto WEB">
+                        <h3>WEB</h3>
+                    </div>
+                </a>
+            </div>
+        </section>
+        <section class="tecnologias">
+            <div class="titulo">
+                <h2 id="tecnologias">Tecnologías</h2>
+            </div>
+            <div class="cards">
+                    <div class="card__tecnologia mysql__card"></div>
+                    <div class="card__tecnologia PHP__card"></div>
+                    <div class="card__tecnologia JAVA__card"></div>
+                    <div class="card__tecnologia CPP__card"></div>
+                    <div class="card__tecnologia WEB__card"></div>    
+                    <div class="card__tecnologia NodeJS__card"></div>    
+                    <div class="card__tecnologia Bostrap__card"></div>    
+                    <div class="card__tecnologia Posgres__card"></div>    
+            </div>
+        </section>
+        <section class="sobre">
+            <div class="titulo">
+                <h2 id="sobre">Sobre</h2>
+            </div>
+            <div class="sobre__container__text">
+                <div class="item__container__sobre">
+                    <h3>Educación</h3>
+                    <p>Estudiante de tecnólogo en sistematización de datos, cursando actualmente tercer semestre</p>
+                </div>
+                <div class="item__container__sobre">
+                    <h3>Habilidades</h3>
+                    <ul class="lista__habilidades">
+                        <li class="item__habilidad">Comunicación clara</li>
+                        <li class="item__habilidad">Trabajo en equipo</li>
+                        <li class="item__habilidad">Adaptación al cambio</li>
+                        <li class="item__habilidad">Gestión del tiempo</li>
+                        <li class="item__habilidad">Responsabilidad</li>
+                        <li class="item__habilidad">Resolución de problemas</li>
+                        <li class="item__habilidad">Habilidades interpersonales</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="piePagina">
+        <ul class="pie__lista">
+            <li class="pie__lista__item">
+                <a href="" class="item__link"><i class="bi bi-linkedin"></i>Linkedin</a>
+            </li>
+            <li class="pie__lista__item">
+                <a href="" class="item__link"><span class="icono__footer"><i class="bi bi-facebook"></i></span></i>Facebook</a>
+            </li>
+            <li class="pie__lista__item">
+                <a href="" class="item__link"><i class="bi bi-google"></i>Gmail</a>
+            </li>
+            <li class="pie__lista__item">
+                <a href="" class="item__link"><i class="bi bi-phone"></i>3196163118</a>
+            </li>
+        </ul>
+    </footer>
+</body>
+</html>

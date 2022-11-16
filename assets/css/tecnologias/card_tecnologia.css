@@ -1,0 +1,38 @@
+.card__tecnologia{
+    width: 8.813rem;
+    height: 8.813rem;
+    border: 1px solid #ffff;
+    margin: 1rem 1rem;
+    font-family: var(--monserrant);
+    font-size: 1.33rem;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1rem 1px rgba(0, 0, 0, 0.497);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.mysql__card{
+    background: url("../../img/Tecnologias/logo__mysql.png") var(--background-card) center/100% no-repeat;
+}
+.PHP__card{
+    background: url("../../img/Tecnologias/logo__php.png") var(--background-card) center/100% no-repeat;
+}
+.JAVA__card{
+    background: url("../../img/Tecnologias/logo__java.png") var(--background-card) center/100% no-repeat;
+}
+.CPP__card{
+    background: url("../../img/Tecnologias/logo__cpp.png") var(--background-card) center/100% no-repeat;
+}
+.WEB__card{
+    background: url("../../img/Tecnologias/logo__web.png") var(--background-card) center/100% no-repeat;
+}
+.NodeJS__card{
+    background: url("../../img/Tecnologias/logo__nodejs.png") var(--background-card) center/100% no-repeat;
+}
+.Bostrap__card{
+    background: url("../../img/Tecnologias/logo__bootstrap.png") var(--background-card) center/100% no-repeat;
+}
+.Posgres__card{
+    background: url("../../img/Tecnologias/logo__postgresql.png") var(--background-card) center/100% no-repeat;
+}

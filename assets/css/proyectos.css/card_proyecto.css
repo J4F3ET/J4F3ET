@@ -1,0 +1,30 @@
+.card__proyecto{
+    width: 21.875rem;
+    height: 11.75rem;
+    margin: .7rem .2rem;
+    font-family: var(--monserrant);
+    font-size: 1.33rem;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1rem 1px rgba(0, 0, 0, 0.497);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.SGU{
+    background: url("../../img//SGU/1__SGU.jpg")  center/cover no-repeat;
+}
+.CPP{
+    background: url("../../img/CPP/1_cpp.jpg") center/cover no-repeat;
+}
+.WEB{
+    color: var(----background-nav);
+    background: url("../../img/WEB/1_WEB.jpg") center/cover no-repeat;
+}
+@media (max-width: 357px) {
+   .card__proyecto{
+        width: calc(100vw - 2rem );
+        margin: .3rem .2rem;
+        font-size: 1rem;
+   } 
+}

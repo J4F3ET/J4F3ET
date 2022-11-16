@@ -1,0 +1,31 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+:root{
+    --background-nav:rgba(75, 78, 109, 1);
+    --background-body:rgba(149, 163, 179, 1);
+    --background-card: rgb(167, 173, 181);
+    --color-icon:rgba(149, 163, 179, 1);
+    --monserrant:'Montserrat', sans-serif;
+}
+body{
+    font-family: var(--monserrant);
+    background-color: var(--background-body);
+    color: #fff;
+}
+.titulo{
+    display: flex;
+    font-family: var(--monserrant);
+    font-size: 1.5rem;
+    font-weight: 100;
+    justify-content: center;
+}
+.cards{
+    width: 100vw;
+    margin: 1rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+svg{
+    width: 7%;
+}

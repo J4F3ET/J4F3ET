@@ -1,0 +1,9 @@
+.sobre__container__text{
+    width: 100vw;
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-family: var(--monserrant);
+    font-weight: 100;
+}

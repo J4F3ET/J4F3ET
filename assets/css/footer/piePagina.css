@@ -1,0 +1,8 @@
+.piePagina{
+    background: var(--background-nav);
+    height: 8.5rem;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,18 @@
+.banner{
+    width: 100vw;
+    height: calc(26.7rem - 3.8rem);
+    border-bottom: 5px solid #ffff;
+    font-family: var(--monserrant);
+    font-size: 1.7rem;
+    font-weight: 100;
+    text-align: center;
+    background: url(../../img/banner.jpeg) 100%/cover no-repeat ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@media(min-width:1200px){
+    .banner{
+        border-bottom: 1px solid #ffff;
+    }
+}

@@ -1,0 +1,16 @@
+.navegador{
+    height: 3.8rem;
+    width: 100vw;
+    background-color: #4B4E6D;
+    font-family: var(--monserrant);
+    font-weight: 100;
+    border-bottom: 5px solid #fff;
+    display: flex;
+    justify-content: end;
+}
+@media(min-width:1200px){
+    .navegador{
+        border-bottom: 1px solid #fff;
+        height: 4rem;
+    }
+}
