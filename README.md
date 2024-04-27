@@ -32,10 +32,10 @@
 
 ## GitHub Stats:
 
-[![View stats](https://visitcount.itsvg.in/api?id=J4F3ET&label=Views&icon=8&color=12)](https://visitcount.itsvg.in)
 ![J4F3ET's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J4F3ET&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=J4F3ET&theme=github_dark&hide_border=true)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J4F3ET&theme=github_dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=J4F3ET&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img alt="an image of a computer screen with a red object in the background" title="venting among us" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515251/12725/venting.gif?1643515251">
+[![](https://visitcount.itsvg.in/api?id=J4F3ET&label=Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
