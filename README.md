@@ -13,68 +13,29 @@
 
 - ⚡ Fun fact **I need coffee**
 
----
+## Connect with me:
 
-<h3 align="left">  Connect with me:</h3>
 
-<p align="left">
-    <a href="https://linkedin.com/in/jafet-lopez-zuñiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jafet-lopez-zuñiga" height="30" width="40" />
-    </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jafet-lopez-zu%C3%B1iga/)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/J4F3ET)
 
----
+## Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-</p>
+### Lenguages
 
----
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript)](https://skillicons.dev)
 
-<h3 align="left">GitHub Stats:</h3>
+### Tools
 
-![](https://github-readme-stats.vercel.app/api?username=J4F3ET&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=J4F3ET&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=J4F3ET&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,express,spring,firebase,git)](https://skillicons.dev)
 
----
 
+## GitHub Stats:
+
+[![View stats](https://visitcount.itsvg.in/api?id=J4F3ET&label=Views&icon=8&color=12)](https://visitcount.itsvg.in)
+![J4F3ET's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J4F3ET&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=J4F3ET&theme=github_dark&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J4F3ET&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=J4F3ET&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <img alt="an image of a computer screen with a red object in the background" title="venting among us" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643515251/12725/venting.gif?1643515251">
-
-[![](https://visitcount.itsvg.in/api?id=J4F3ET&icon=2&color=12)](https://visitcount.itsvg.in)
