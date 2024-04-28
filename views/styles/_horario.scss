@@ -1,0 +1,61 @@
+.container_horario {
+    .container_tabla {
+        display: grid;
+        place-content: start;
+        overflow-x: auto;
+
+        max-width: 100vw;
+        padding: 20px;
+    }
+
+    .tabla_horario {
+        table-layout: fixed;
+        border-collapse: collapse;
+
+        min-width: 800px;
+        width: 100%;
+        max-width: 80vw;
+        padding: 5px;
+
+        border: 0.5px solid $secundario;
+
+        thead {
+            background-color: $secundario;
+            border: 0.5 solid $terciario;
+
+            color: white;
+            font-size: 1rem;
+            text-align: center;
+            letter-spacing: 2px;
+            font-family: $font-content;
+        }
+
+        tbody {
+            background-color: $primario;
+            border: 0.5 solid $terciario;
+        }
+
+        th {
+            padding: 12px;
+        }
+
+        tr {
+            padding: 10px;
+            border-bottom: 0.5px solid $secundario;
+            border-right: 0.5px solid $secundario;
+        }
+
+        tr:nth-child(even) {
+            display: none;
+        }
+    }
+}
+
+@media (min-width: 450px) {
+    .container_horario {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
