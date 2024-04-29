@@ -17,8 +17,9 @@ jobs:
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag portafolioimage:$(date +%s)
     - name: Deploy to GitHub Pages (con Docker)
-      uses: crazymax/docker-action@v2  # Acción para ejecutar comandos Docker
+      uses: crazymax/docker-action@v2
       with:
-        image: portafolioimage:$(date +%s)  # Imagen construida previamente
-        args: ["--rm", "-p", "80:80", "-d"]  # Argumentos para ejecutar la imagen
-        services: ["httpd"]           # Servicio a ejecutar desde la imagen
+        image: portafolioimage:$(date +%s)
+        args: "--rm -p 80:80"
+        services: "httpd"
+
