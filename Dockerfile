@@ -1,9 +1,8 @@
 FROM node:lts AS build
 WORKDIR /app
 COPY . .
-RUN npm i
-RUN npm run build
+RUN npm install
+RUN npm run build --output-dir /usr/local/apache2/htdocs
 
 FROM httpd:2.4 AS runtime
-COPY --from=build /app/dist /usr/local/apache2/htdocs/
 EXPOSE 80
