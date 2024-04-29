@@ -14,16 +14,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: Login to Docker (opcional)
-      # Si tu repositorio privado requiere autenticación para Docker Hub
-      # agrega este paso para iniciar sesión. 
-      # Ten en cuenta la seguridad al almacenar credenciales en GitHub Actions.
-      # Busca en la documentación de Actions sobre autenticación de Docker.
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag portafolioimage:$(date +%s)
     - name: Deploy to GitHub Pages (con Docker)
       uses: crazymax/docker-action@v2  # Acción para ejecutar comandos Docker
       with:
         image: portafolioimage:$(date +%s)  # Imagen construida previamente
-        args: ["--rm", "-p", "80:80"]  # Argumentos para ejecutar Apache
+        args: ["--rm", "-p", "80:80", "-d"]  # Argumentos para ejecutar la imagen
         services: ["httpd"]           # Servicio a ejecutar desde la imagen
