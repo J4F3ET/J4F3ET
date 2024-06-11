@@ -35,12 +35,12 @@ const src =  `https://skillicons.dev/icons?i=${entry.data.tags}`;
 				<div class="wrapper stack gap-2">
 					<a class="back-link" href="/work/"><Icon icon="arrow-left" /> Trabajo</a>
 					<Hero title={entry.data.title} align="start">
-						<div class="details">
+						<div class="details ">
+							<p class="description">{entry.data.description}</p>
 							<div class="tags">
 								<img src={src} alt="Tags">
 								<Pill>{entry.data.status}</Pill>
 							</div>
-							<p class="description">{entry.data.description}</p>
 						</div>
 					</Hero>
 				</div>
@@ -79,7 +79,17 @@ const src =  `https://skillicons.dev/icons?i=${entry.data.tags}`;
 
 	.tags {
 		display: flex;
+		flex-direction: row;
 		gap: 0.5rem;
+	}
+	@media screen and (max-width: 1045px) and (min-width: 800px) {
+		.tags {
+			flex-direction: column;
+			.pill {
+				margin-top: 0.5rem;
+				width: min-content;
+			}
+		}
 	}
 
 	.description {
