@@ -4,12 +4,13 @@ publishDate: 2023-12-10 00:00:00
 img: /assets/gitcol-learning/IndexGitCol-Learning.png
 img_alt: Imagen de la página principal de la aplicación web
 description: |
-  Gestor de tareas es una aplicación web que permite gestionar tareas de manera sencilla y rápida.
+  GitCol-Learning se creo para ayudar a los estudiantes a aprender los comandos git de una forma más interactiva, proporcionándoles una plataforma en la que puedan practicar los comandos git y aprender a utilizarlos en situaciones reales.
 status: En desarrollo
 tags:
   - javascript
   - express
   - firebase
+  - nodejs
   - git
   - svg
 ---
@@ -18,7 +19,7 @@ tags:
 [![Repositorio](https://img.shields.io/badge/Repositorio-%23090b11?style=for-the-badge&logo=github&logoColor=white&labelColor=%23090b11)](https://github.com/J4F3ET/UD.ProyectoDeGrado.GitCol-Learning)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgitcol-learning.onrender.com&up_message=Desplegado&down_message=No%20desplegado&style=for-the-badge&label=Estado&labelColor=%23090b11)](https://gitcol-learning.onrender.com)
 
-`El proyecto puede demorar en cargar (50 seg) debido a que se encuentra en un plan gratuito de Onrender.`
+`El demo del proyecto puede demorar en cargar (50 seg) debido a que se encuentra en un plan gratuito de Onrender.`
 
 `Dar click en la etiqueta "Estado" para ir a la página web.`
 
