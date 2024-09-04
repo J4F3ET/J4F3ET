@@ -16,12 +16,15 @@ tags:
 ![Static Badge](https://img.shields.io/badge/Firebase-Desactivado-red?style=for-the-badge&logo=firebase&labelColor=%23090b11)
 
 
-Parchís es una aplicación mobile que me permitio aprender a utilizar **Firebase** para la gestión de usuarios y partidas en tiempo real. La aplicación permite a los usuarios crear y unirse a partidas, lanzar los dados y mover sus fichas. Además, los usuarios pueden ver el estado de las partidas en tiempo real.
+Parchís es una aplicación móvil desarrollada en Kotlin que me permitió aprender a utilizar **Firebase** para gestionar usuarios y partidas en tiempo real. Los usuarios pueden crear y unirse a partidas, lanzar los dados, mover sus fichas y seguir el estado de las partidas en tiempo real.
 
-## Logros y Aprendizajes
+## Retos y Logros
 
-- Planeé y desarrollé el sistema de renderización de las fichas y el tablero del juego. Usando **Jetpack Compose** para la creación del tablera sectorizado
-para evitar la renderización de todo el tablero en cada movimiento.
-- Implementé el **patrón Observer** para la actualización en tiempo real datos de las partidas y los usuarios.
-- Implementé un sistema de autenticación usando el **patrón Singleton** y **Firebase** para la gestión de usuarios y partidas.
-- Aprendí a utilizar **Firebase Realtime Database** para la gestión de partidas en tiempo real.
+- **Reto**: Evitar que todo el tablero se actualizara con cada movimiento, lo que ralentizaba el juego.
+  - **Logro**: Diseñé un sistema que solo actualiza la parte del tablero afectada por el movimiento, mejorando la velocidad del juego.
+
+- **Reto**: Gestionar las sesiones de usuarios en Kotlin de manera eficiente.
+  - **Logro**: Implementé un sistema de autenticación que maneja sesiones de forma segura y sencilla, usando Firebase.
+
+- **Reto**: Almacenar y recuperar rápidamente el estado del juego para no afectar la experiencia del usuario.
+  - **Logro**: Utilicé Firebase Realtime Database para manejar las partidas en tiempo real, asegurando una respuesta rápida y fluida.

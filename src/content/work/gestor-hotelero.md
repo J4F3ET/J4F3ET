@@ -19,23 +19,23 @@ tags:
 [![Repositorio](https://img.shields.io/badge/Repositorio-%23090b11?style=for-the-badge&logo=github&logoColor=white&labelColor=%23090b11)](https://github.com/J4F3ET/UD.BaseDeDatoAvanzada.ProyectoFinal)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgestion-hotelera.onrender.com&up_message=Desplegado&down_message=No%20desplegado&style=for-the-badge&label=Estado&labelColor=%23090b11)
 
-## Logros y Aprendizajes
+Desarrollé una robusta capa backend para la gestión de una cadena hotelera ficticia, **TRANQUIDESCANSO S.A.**, utilizando tecnologías líderes en la industria. El objetivo fue construir un sistema que permita administrar operaciones hoteleras, incluyendo gestión de reservas, habitaciones, categorías de hoteles y servicios adicionales, con alta eficiencia y escalabilidad.
+## Retos y Logros
 
-Para desarrollar la robusta capa backend de nuestro sistema de gestión hotelera, hemos optado por utilizar un conjunto de tecnologías líderes en la industria para garantizar la eficiencia y la escalabilidad. El backend de nuestro sistema se basa en el siguiente conjunto de tecnologías:
+- **Reto**: Diseñar una base de datos eficiente que cumpla con los requisitos de gestión de hoteles y reservas.
+  - **Logro**: Maqueté la base de datos incluyendo la creación de triggers, procedimientos almacenados y vistas para satisfacer los requisitos específicos de la cadena hotelera.
 
-- Maqueté la base de datos teniendo en cuenta los requerimientos para crear los
-**triggers, procedimientos almacenados y vistas**.
+- **Reto**: Crear una capa de persistencia y servicios que garantice la eficiencia y escalabilidad del sistema.
+  - **Logro**: Utilicé **Spring Boot** junto con **JPA** y **Hibernate** para construir una capa robusta y eficiente que maneje las operaciones y datos del sistema.
 
-- Utilizando **Spring Boot** junto con **JPA** y **Hibernate**, generé la capa de
-persistencia y la capa de servicios
+- **Reto**: Facilitar la portabilidad y la ejecución del sistema en diferentes entornos.
+  - **Logro**: Implementé **Docker Compose** para asegurar que la aplicación pueda ser fácilmente trasladada y ejecutada en diversos entornos sin problemas.
 
-- Implementé **Docker Compose** para facilitar la transferencia de datos y
-la ejecución de la aplicación en diferentes entornos.
+- **Reto**: Generar datos de prueba y practicar procesos de ETL de manera efectiva.
+  - **Logro**: Desarrollé algoritmos en **Python** para crear datos de prueba y manejar procesos de ETL, lo que permitió una evaluación exhaustiva del sistema y su rendimiento.
 
-- Creé algoritmos en **Python** para generar datos de prueba y practicar
-procesos de **ETL**.
-
-- Estoy implementando **Spring Security** para desarrollar la autenticación en el backend.
+- **Reto**: Implementar un sistema de autenticación seguro para el backend.
+  - **Logro**: Estoy en proceso de integrar **Spring Security** para garantizar una autenticación robusta y segura en el sistema, protegiendo los datos y operaciones del backend.
 
 ## Premisa
 

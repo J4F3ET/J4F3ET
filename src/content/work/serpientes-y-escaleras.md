@@ -14,9 +14,14 @@ tags:
 ## Serpientes y Escaleras
 [![Repositorio](https://img.shields.io/badge/Repositorio-%23090b11?style=for-the-badge&logo=github&logoColor=white&labelColor=%23090b11)](https://github.com/J4F3ET/UD.ProgramacionPorComponentes.Proyecto01)
 
-## Logros y Aprendizajes
+Serpientes y Escaleras es una aplicación mobile que permite jugar al clásico juego de mesa Serpientes y Escaleras de manera nativa en dispositivos Android con dos jugadores.
+## Retos y Logros
 
-- Planeé y desarrollé el sistema de renderización de las fichas y el tablero del juego. Usando **Jetpack Compose** para la creación del tablera usando
-una logica en base a estructuras de datos.
+- **Reto**: Mantener una estructura sencilla para el tablero sin aumentar la complejidad del algoritmo.
+  - **Logro**: Utilicé estructuras de datos simples en lugar de matrices para representar el tablero. Como el número de datos era limitado, opté por arrays, lo que permitió mantener el estado del juego de manera eficiente.
 
-- Aprendí a utilizar **Kotlin** para el desarrollo de aplicaciones nativas en Android.
+- **Reto**: Crear una representación visual del juego que fuera clara y funcional.
+  - **Logro**: Aprendí a usar **Jetpack Compose** para desarrollar la interfaz gráfica del tablero, implementando una lógica basada en estructuras de datos para asegurar una experiencia de juego fluida. Esta herramienta tambien permite que el app sea multiplataforma
+
+- **Reto**: Familiarizarme con el desarrollo nativo en Android.
+  - **Logro**: Durante el proyecto, aprendí a utilizar **Kotlin** para desarrollar aplicaciones nativas, lo que me permitió mejorar la implementación del juego en Android.
