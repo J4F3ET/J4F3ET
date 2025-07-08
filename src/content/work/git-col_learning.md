@@ -17,7 +17,7 @@ tags:
 ## Git-Col Learning
 
 [![Repositorio](https://img.shields.io/badge/Repositorio-%23090b11?style=for-the-badge&logo=github&logoColor=white&labelColor=%23090b11)](https://github.com/J4F3ET/UD.ProyectoDeGrado.GitCol-Learning)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgitcol-learning.onrender.com&up_message=Desplegado&down_message=No%20desplegado&style=for-the-badge&label=Estado&labelColor=%23090b11)](https://gitcol-learning.onrender.com)
+[![Website](https://img.shields.io/website?url=https://gitcol-learning.tailfce855.ts.net&up_message=Desplegado&down_message=No%20desplegado&style=for-the-badge&label=Estado&labelColor=%23090b11)](https://gitcol-learning.tailfce855.ts.net)
 
 `El demo del proyecto puede demorar en cargar (50 seg) debido a que se encuentra en un plan gratuito de Onrender.`
 
