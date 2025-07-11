@@ -10,17 +10,14 @@ tags:
   - net
 ---
 
-Este sitio web permite a los usuarios llevar un control detallado de su vida financiera, proporcionando un historial financiero breve y visualización de datos a través de gráficos. El sistema fue diseñado utilizando Entity Framework con SQL Server para la gestión de datos, Bootstrap y Razor para la interfaz de usuario, y Chart.js para generar gráficos interactivos.
+**Gestor Financiero Personal**
 
-## Retos y Logros
+Sitio web que permite a los usuarios visualizar y gestionar su historial financiero mediante una interfaz amigable e informes gráficos.
 
-- **Reto**: Diseñar un sistema que permita al usuario tener un control intuitivo y organizado de su historial financiero.
+**Retos y Logros**
 
-  - **Logro**: Implementé la base de datos utilizando Entity Framework con SQL Server, lo que permitió una gestión eficiente y estructurada de los datos financieros.
+* **Gestión estructurada de datos**: Implementé Entity Framework con SQL Server para organizar y almacenar los datos financieros de forma eficiente.
 
-- **Reto**: Crear una interfaz de usuario que sea accesible y fácil de usar.
+* **Interfaz accesible**: Desarrollé una interfaz responsive y clara utilizando Bootstrap y Razor, mejorando la experiencia de navegación.
 
-  - **Logro**: Utilicé Bootstrap y Razor para desarrollar una interfaz limpia y responsive, facilitando la navegación y la experiencia del usuario.
-
-- **Reto**: Visualizar datos financieros de manera clara y comprensible.
-  - **Logro**: Implementé gráficos interactivos utilizando Chart.js, lo que permitió a los usuarios analizar su historial financiero de manera visual y efectiva.
+* **Visualización efectiva**: Integré Chart.js para mostrar gráficos interactivos que facilitan el análisis de ingresos y gastos.
