@@ -4,8 +4,8 @@ publishDate: 2023-05-07 00:00:00
 img: /assets/gestion-hotelera/IndexGestorDeHoteles.webp
 img_alt: Imagen del proyecto en su vista principal, donde se ven diferentes hoteles.
 description: |
-  Estoy desarrollando  un sistema de gestión hotelera, de una cadena de hoteles para la empresa (ficticia) Tranqui Descanso.
-status: En desarrollo
+  Sistema de gestión hotelera, de una cadena de hoteles para la empresa (ficticia) Tranqui Descanso.
+status: Finalizado
 tags:
   - java
   - spring
@@ -19,28 +19,21 @@ tags:
 [![Repositorio](https://img.shields.io/badge/Repositorio-%23090b11?style=for-the-badge&logo=github&logoColor=white&labelColor=%23090b11)](https://github.com/J4F3ET/UD.BaseDeDatoAvanzada.ProyectoFinal)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgestion-hotelera.onrender.com&up_message=Desplegado&down_message=No%20desplegado&style=for-the-badge&label=Estado&labelColor=%23090b11)
 
-Desarrollé una robusta capa backend para la gestión de una cadena hotelera ficticia, **TRANQUIDESCANSO S.A.**, utilizando tecnologías líderes en la industria. El objetivo fue construir un sistema que permita administrar operaciones hoteleras, incluyendo gestión de reservas, habitaciones, categorías de hoteles y servicios adicionales, con alta eficiencia y escalabilidad.
+**Gestor Hotelero – TRANQUIDESCANSO S.A.**
 
-## Retos y Logros
+Sistema backend para la administración de operaciones hoteleras, desarrollado con enfoque en eficiencia, escalabilidad y portabilidad.
 
-- **Reto**: Diseñar una base de datos eficiente que cumpla con los requisitos de gestión de hoteles y reservas.
+**Retos y Logros**
 
-  - **Logro**: Maqueté la base de datos incluyendo la creación de triggers, procedimientos almacenados y vistas para satisfacer los requisitos específicos de la cadena hotelera.
+* **Modelado eficiente**: Diseñé una base de datos estructurada con procedimientos, triggers y vistas que cubren los procesos clave del negocio hotelero.
 
-- **Reto**: Crear una capa de persistencia y servicios que garantice la eficiencia y escalabilidad del sistema.
+* **Capa backend robusta**: Implementé servicios con Spring Boot, JPA y Hibernate para asegurar un manejo confiable de datos y operaciones.
 
-  - **Logro**: Utilicé **Spring Boot** junto con **JPA** y **Hibernate** para construir una capa robusta y eficiente que maneje las operaciones y datos del sistema.
+* **Portabilidad del sistema**: Utilicé Docker Compose para facilitar el despliegue del sistema en distintos entornos sin configuración adicional.
 
-- **Reto**: Facilitar la portabilidad y la ejecución del sistema en diferentes entornos.
+* **Generación de datos y pruebas**: Automatizé la creación de datos de prueba y flujos ETL con Python para validar el comportamiento del sistema.
 
-  - **Logro**: Implementé **Docker Compose** para asegurar que la aplicación pueda ser fácilmente trasladada y ejecutada en diversos entornos sin problemas.
-
-- **Reto**: Generar datos de prueba y practicar procesos de ETL de manera efectiva.
-
-  - **Logro**: Desarrollé algoritmos en **Python** para crear datos de prueba y manejar procesos de ETL, lo que permitió una evaluación exhaustiva del sistema y su rendimiento.
-
-- **Reto**: Implementar un sistema de autenticación seguro para el backend.
-  - **Logro**: Estoy en proceso de integrar **Spring Security** para garantizar una autenticación robusta y segura en el sistema, protegiendo los datos y operaciones del backend.
+* **Seguridad en proceso**: Estoy integrando Spring Security para reforzar la autenticación y proteger el acceso al sistema.
 
 ## Premisa
 

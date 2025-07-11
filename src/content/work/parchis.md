@@ -17,17 +17,15 @@ tags:
 [![Repositorio](https://img.shields.io/badge/Repositorio-%23090b11?style=for-the-badge&logo=github&logoColor=white&labelColor=%23090b11)](https://github.com/J4F3ET/UD.ProgramacionPorComponentes.Proyecto02)
 ![Static Badge](https://img.shields.io/badge/Firebase-Desactivado-red?style=for-the-badge&logo=firebase&labelColor=%23090b11)
 
-Parchís es una aplicación móvil desarrollada en Kotlin que me permitió aprender a utilizar **Firebase** para gestionar usuarios y partidas en tiempo real. Los usuarios pueden crear y unirse a partidas, lanzar los dados, mover sus fichas y seguir el estado de las partidas en tiempo real.
+**Parchís Online**
 
-## Retos y Logros
+Aplicación móvil desarrollada en Kotlin que permite crear y jugar partidas en tiempo real con autenticación y sincronización a través de Firebase.
 
-- **Reto**: Evitar que todo el tablero se actualizara con cada movimiento, lo que ralentizaba el juego.
+**Retos y Logros**
 
-  - **Logro**: Diseñé un sistema que solo actualiza la parte del tablero afectada por el movimiento, mejorando la velocidad del juego.
+* **Rendimiento optimizado**: Reduje el consumo de recursos actualizando solo las secciones necesarias del tablero, mejorando la fluidez del juego.
 
-- **Reto**: Gestionar las sesiones de usuarios en Kotlin de manera eficiente.
+* **Gestión de usuarios**: Implementé autenticación eficiente y segura mediante Firebase, simplificando el manejo de sesiones.
 
-  - **Logro**: Implementé un sistema de autenticación que maneja sesiones de forma segura y sencilla, usando Firebase.
+* **Sincronización en tiempo real**: Utilicé Firebase Realtime Database para mantener actualizados los estados de partida sin demoras, mejorando la experiencia del usuario.
 
-- **Reto**: Almacenar y recuperar rápidamente el estado del juego para no afectar la experiencia del usuario.
-  - **Logro**: Utilicé Firebase Realtime Database para manejar las partidas en tiempo real, asegurando una respuesta rápida y fluida.

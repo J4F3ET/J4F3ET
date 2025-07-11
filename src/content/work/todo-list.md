@@ -10,17 +10,14 @@ tags:
   - golang
 ---
 
-Desarrollo de una API sencilla con Go para aprender los principios de Clean Architecture y conceptos de concurrencia.
+**API en Go – Clean Architecture y Concurrencia**
 
-## Retos y Logros
+Desarrollo de una API con Go orientada al aprendizaje de arquitectura limpia y procesamiento concurrente.
 
-- **Reto**: Implementar los principios de Clean Architecture en Golang.
+**Retos y Logros**
 
-  - **Logro**: Apliqué los principios de Clean Architecture usando la inversión de dependencias para separar correctamente la capa de dominio de la infraestructura, asegurando que cada capa tuviera su responsabilidad clara.
+* **Arquitectura modular**: Apliqué Clean Architecture para separar responsabilidades, facilitando el mantenimiento y evolución del sistema.
 
-- **Reto**: Aprender y aplicar el uso de goroutines y conceptos de concurrencia en Go.
+* **Procesamiento concurrente**: Utilicé goroutines para manejar múltiples peticiones simultáneas, logrando respuestas eficientes incluso bajo alta carga.
 
-  - **Logro**: Utilicé goroutines para procesar las peticiones de la API de manera concurrente, realizando pruebas con hasta 100,000 datos. Midió el rendimiento logrando respuestas en microsegundos, gracias también al uso eficiente de estructuras de datos como maps.
-
-- **Reto**: Verificar la capacidad de inserción de datos en el algoritmo.
-  - **Logro**: Emulé múltiples peticiones HTTP simultáneas utilizando goroutines, lo que me permitió evaluar el comportamiento de la API bajo carga, procesando varias peticiones concurrentemente y optimizando el rendimiento.
+* **Evaluación de rendimiento**: Simulé cargas intensas para probar la inserción y respuesta de la API, alcanzando tiempos de respuesta en microsegundos.

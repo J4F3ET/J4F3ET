@@ -17,21 +17,16 @@ tags:
 [![Repositorio](https://img.shields.io/badge/Repositorio-%23090b11?style=for-the-badge&logo=github&logoColor=white&labelColor=%23090b11)](https://github.com/J4F3ET/UD.ProgramacionAvanzada.ApiRestFull)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2FUD.ProgramacionAvanzada.ApiRestFull.onrender.com&up_message=Desplegado&down_message=No%20desplegado&style=for-the-badge&label=Estado&labelColor=%23090b11)
 
-Este proyecto consistió en el desarrollo de una aplicación web que permite a los usuarios crear, editar, eliminar y marcar tareas como completadas. Además, la aplicación permite filtrar las tareas por estado y fecha de creación, brindando una experiencia intuitiva y sencilla para el manejo de tareas.
+**Gestor de Tareas**
 
-## Retos y Logros
+Aplicación web para la creación, edición y seguimiento de tareas, con filtros por estado y fecha.
 
-- **Reto**: Implementar una API robusta que permita gestionar tareas de manera eficiente.
+**Retos y Logros**
 
-  - **Logro**: Desarrollé una API RESTful utilizando **Spring Boot** que permite a los usuarios gestionar tareas de manera eficiente, proporcionando funcionalidades para filtrar, modificar y actualizar el estado de las mismas.
+* **API eficiente**: Desarrollé una API REST con Spring Boot para gestionar tareas, permitiendo filtrado y actualización de estado de forma fluida.
 
-- **Reto**: Aprender y utilizar tecnologías para la gestión de datos y la persistencia.
+* **Gestión de datos optimizada**: Implementé Hibernate y JPA con PostgreSQL para garantizar consistencia y rendimiento en la persistencia de datos.
 
-  - **Logro**: Apliqué **Hibernate** y **JPA** junto con **Spring Boot** para implementar la capa de persistencia y gestionar la interacción con **PostgreSQL**, optimizando el manejo de los datos y su consistencia.
+* **Arquitectura clara**: Apliqué buenas prácticas como MVC, DAO y DTO, mejorando la organización y escalabilidad del código.
 
-- **Reto**: Diseñar un sistema con buenas prácticas de programación y arquitecturas claras.
-
-  - **Logro**: Implementé el patrón de diseño **MVC** y mantuve una clara separación de responsabilidades utilizando **DAO**, **DTO** y **Service**, lo que mejoró la mantenibilidad y escalabilidad del proyecto.
-
-- **Reto**: Crear un frontend que fuese intuitivo y eficiente para los usuarios.
-  - **Logro**: Utilicé **AdminLTE** para desarrollar un frontend moderno, acortando el tiempo de desarrollo y proporcionando una interfaz visualmente atractiva para gestionar las tareas de manera sencilla.
+* **Interfaz intuitiva**: Utilicé AdminLTE para construir un frontend funcional y visualmente atractivo, facilitando la experiencia del usuario.
