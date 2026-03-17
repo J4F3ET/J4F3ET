@@ -24,11 +24,11 @@
 
 ### Lenguages
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,kotlin,javascript,typescript)](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,express,spring,firebase,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,aws,azure,docker,express,spring,firebase,git)](https://skillicons.dev)
 
 
 ## GitHub Stats:
