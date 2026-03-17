@@ -4,9 +4,9 @@
 </h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🔭 I’m currently working on [git-col learning](https://gitcol-learning.onrender.com/)
+- 🔭 I’m currently working on  SL Consulting Insights & Arquetypos
 
-- 🌱 I’m currently learning **Typescript, Vue, Nuxt and spring boot**
+- 🌱 I’m currently learning **C#, .Net, Blazor**
 
 - 👨‍💻 All of my projects are available at [https://jafet.onrender.com/](https://jafet.onrender.com/)
 
@@ -15,7 +15,6 @@
 - ⚡ Fun fact **I need coffee**
 
 ## Connect with me:
-
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jafet-lopez-zu%C3%B1iga/)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/J4F3ET)
