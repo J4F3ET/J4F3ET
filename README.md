@@ -4,9 +4,11 @@
 </h1>
 <h3 align="center">Backend Developer & Software Engineer from Colombia</h3>
 
-- 🔭 I’m currently working on **Sistema Hotelero de Microservicios** & **Procesador Distribuido de Imágenes**
+- 🔭 I'm currently working on **Sistema Hotelero de Microservicios** & **Procesador Distribuido de Imágenes**
 
-- 🌱 I’m currently learning **Spring Cloud, Apache Kafka, ELK Stack and Clean Architecture**
+- 🌱 I'm currently learning **AWS, Apache Kafka and ELK Stack**
+
+- 👥 Active member of **dev communities**
 
 - 👨‍💻 All of my projects are available at [https://main--j4f3t.netlify.app/](https://main--j4f3t.netlify.app/)
 
