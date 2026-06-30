@@ -2,33 +2,38 @@
 <h1 align="center">
     Hi <img width="30px" alt="Cat with Colombian flag" title="meow co blob cats" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1629602156/48789/meow_co.png?1629602156">, I'm Jafet Stiven Lopez
 </h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">Backend Developer & Software Engineer from Colombia</h3>
 
-- 🔭 I’m currently working on [git-col learning](https://gitcol-learning.onrender.com/)
+- 🔭 I’m currently working on **Sistema Hotelero de Microservicios** & **Procesador Distribuido de Imágenes**
 
-- 🌱 I’m currently learning **Typescript, Vue, Nuxt and spring boot**
+- 🌱 I’m currently learning **Spring Cloud, Apache Kafka, ELK Stack and Clean Architecture**
 
-- 👨‍💻 All of my projects are available at [https://jafet.onrender.com/](https://jafet.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://main--j4f3t.netlify.app/](https://main--j4f3t.netlify.app/)
 
 - 📫 How to reach me **jafetstivenlopezzuniga@gmail.com**
 
-- ⚡ Fun fact **I need coffee**
-
 ## Connect with me:
-
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jafet-lopez-zu%C3%B1iga/)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/J4F3ET)
 
 ## Languages and Tools:
 
-### Lenguages
+### Backend & Architecture
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,kafka)](https://skillicons.dev)
 
-### Tools
+### Infrastructure & Data
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,express,spring,firebase,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,postgresql,mongodb,elasticsearch,firebase)](https://skillicons.dev)
+
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,angular,html,css)](https://skillicons.dev)
+
+### Tools & Methodologies
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea)](https://skillicons.dev)
 
 
 ## GitHub Stats:

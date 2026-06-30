@@ -6,7 +6,7 @@ import Hero from '../components/Hero.astro';
 import Grid from '../components/Grid.astro';
 ---
 
-<BaseLayout title="Sobre mí | Jafer Lopez" description="Sobre Jafet Lopez">
+<BaseLayout title="Sobre mí | Jafet Lopez" description="Sobre Jafet Lopez - Desarrollador de Software">
 	<div class="stack gap-20">
 		<main class="wrapper about">
 			<Hero
@@ -25,19 +25,21 @@ import Grid from '../components/Grid.astro';
 				<h2 class="section-title">Sobre mi</h2>
 				<div class="content">
 					<p>
-						Desarrollador backend con experiencia sólida en Java y Node.js. Apasionado por resolver problemas desde 
-						distintos enfoques y por construir soluciones escalables. Durante mis prácticas trabajé con múltiples equipos, 
-						fortaleciendo mi capacidad de adaptación, colaboración y aprendizaje mutuo.
+						Desarrollador de Software con más de un año de experiencia, orientado activamente hacia el Backend, la
+						Infraestructura y la Arquitectura. Me dedico a diseñar soluciones modulares, escalables y eficientes, traduciendo
+						reglas de negocio complejas en sistemas robustos. Tengo experiencia demostrable reduciendo deuda técnica,
+						refactorizando código legacy hacia estándares modernos y mitigando limitaciones arquitectónicas para maximizar
+						el valor entregado a la empresa.
 					</p>
 					<ul>
 						<li>
-							Resuelvo problemas de forma creativa, adaptándome a distintos contextos y necesidades del proyecto.
+							Lidero la refactorización progresiva de sistemas legacy hacia arquitecturas modernas y estables.
 						</li>
 						<li>
-							Abierto a aprender nuevas tecnologías y metodologías, trabajando con personas talentosas.
+							Reduzco activamente la deuda técnica mediante la optimización de bloques de código.
 						</li>
 						<li>
-							He liderado iniciativas técnicas como la migración a despliegues automatizados y el desarrollo de dashboards.
+							Analizo e integro requerimientos empresariales, traduciendo necesidades operativas en soluciones escalables.
 						</li>
 					</ul>
 				</div>
@@ -46,39 +48,36 @@ import Grid from '../components/Grid.astro';
 				<h2 class="section-title">Habilidades</h2>
 				<div class="content">
 					<div>
-						<h3 class="section-subtitle">Lenguajes</h3>
+						<h3 class="section-subtitle">Backend & Arquitectura</h3>
 						<img class="img-skill"
-							src="https://skillicons.dev/icons?i=java,javascript,cs,kotlin&perline=7"
-							alt="Lenjuajes de programación que maneja Jafet Lopez, Java, Kotlin, JavaScript,C#"
+							src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs&perline=7"
+							alt="Backend y Arquitectura: Java, Spring Boot, C# .NET, Node.js"
 						/>
 					</div>
 					<div>
-						<h3 class="section-subtitle">Frameworks y Librerías</h3>
+						<h3 class="section-subtitle">Infraestructura & Datos</h3>
 						<img class="img-skill"
-							src="https://skillicons.dev/icons?i=spring,express,dotnet&perline=7"
-							alt="Frameworks y librerías que maneja Jafet Lopez, Spring, Express,.NET"
+							src="https://skillicons.dev/icons?i=docker,kafka,postgresql,mongodb,elasticsearch&perline=7"
+							alt="Infraestructura: Docker, Kafka, PostgreSQL, MongoDB, ELK Stack"
 						/>
 					</div>
 					<div>
-						<h3 class="section-subtitle">Herramientas</h3>
+						<h3 class="section-subtitle">Frontend</h3>
 						<img class="img-skill"
-							src="https://skillicons.dev/icons?i=git,docker,github,nodejs,firebase,idea,vscode,postman,mysql,postgresql&perline=6"
-							alt="Herramientas que maneja Jafet Lopez, Git, Docker, GitHub, NodeJS, Firebase, IntelliJ IDEA, Visual Studio Code, Postman,MySQL, PostgreSQL, NoSQ"
+							src="https://skillicons.dev/icons?i=javascript,typescript,angular,html,css&perline=7"
+							alt="Frontend: JavaScript, TypeScript, Angular, HTML5, CSS3"
 						/>
 					</div>
 					<div>
-						<h3 class="section-subtitle">Aprendiendo</h3>
+						<h3 class="section-subtitle">Herramientas & Metodologías</h3>
 						<img class="img-skill"
-							src="https://skillicons.dev/icons?i=bash,azure,aws,golang&perline=7"
-							alt="Herramientas que está aprendiendo Jafet Lopez, Azure, AWS"
+							src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman&perline=7"
+							alt="Herramientas: Git, GitHub, GitLab, VS Code, IntelliJ IDEA, Postman"
 						/>
 					</div>
 					<div>
-						<h3 class="section-subtitle">Acercamientos</h3>
-						<img class="img-skill"
-							src="https://skillicons.dev/icons?i=py,go,php,gcp,nginx&perline=7"
-							alt="Herramientas que en algun momento utilizo Jafet Lopez, Python, PHP, Google Cloud Platform, nginx"
-						/>
+						<h3 class="section-subtitle">Idiomas</h3>
+						<p class="languages">Español (Nativo) | Inglés (B1 - Técnico fluido)</p>
 					</div>
 				</div>
 			</section>
@@ -90,19 +89,19 @@ import Grid from '../components/Grid.astro';
 							{
 								[
 									{
-										title: 'Tecnología en Sistemas de Datos',
+										title: 'Ingeniería Telemática',
 										institution: 'Universidad Distrital Francisco José de Caldas',
-										year: '2021 - Presente',
+										year: 'Ene/2025 – Presente',
+									},
+									{
+										title: 'Tecnólogo en Sistematización de Datos',
+										institution: 'Universidad Distrital Francisco José de Caldas',
+										year: 'Nov/2021 – Nov/2025',
 									},
 									{
 										title: 'Despliegue de Aplicaciones en Docker',
 										institution: 'SENA',
 										year: '2023',
-									},
-									{
-										title: 'Front End, Oracle Next Education F2 T3 ',
-										institution: 'Alura LATAM',
-										year: '2022',
 									},
 									{
 										title: 'Curso de Typescript',
@@ -193,6 +192,11 @@ import Grid from '../components/Grid.astro';
 		color: var(--gray-300);
 		background: var(--gradient-subtle);
 		box-shadow: var(--shadow-sm);
+	}
+
+	.languages {
+		color: var(--gray-200);
+		font-size: var(--text-lg);
 	}
 
 	@media (min-width: 50em) {
