@@ -4,9 +4,9 @@
 </h1>
 <h3 align="center">Backend Developer & Software Engineer from Colombia</h3>
 
-- 🔭 I'm currently working on **Sistema Hotelero de Microservicios** & **Procesador Distribuido de Imágenes**
+- 🔭 I’m currently working on  SL Consulting Insights & Arquetypos
 
-- 🌱 I'm currently learning **AWS, Apache Kafka and ELK Stack**
+- 🌱 I’m currently learning **C#, .Net, Blazor, AWS**
 
 - 👥 Active member of **dev communities**
 
@@ -31,12 +31,11 @@
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,angular,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,kotlin,javascript,typescript)](https://skillicons.dev)
 
 ### Tools & Methodologies
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=dotnet,aws,azure,docker,spring,git,linux)](https://skillicons.dev)
 
 ## GitHub Stats:
 
