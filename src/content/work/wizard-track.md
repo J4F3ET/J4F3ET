@@ -1,20 +1,29 @@
 ---
-title: Wizard Track
+title: Wizard Track (Gestión Financiera)
 publishDate: 2023-05-07 00:00:00
 img: /assets/wizard-track/IndexWizardTrack.webp
-img_alt: Imagen del proyecto en su vista principal, donde se ven diferentes hoteles.
+img_alt: Imagen del proyecto en su vista principal, mostrando el panel de gestión financiera.
 description: |
-  Sitio web que permite llevar un control de tu vida financiera y darte un breve historial financiero de este
-status: En desarrollo
+  Plataforma backend robusta en ecosistema C# (.NET) gestionando persistencia e integridad de datos con Entity Framework y SQL Server.
+status: Finalizado
 tags:
-  - net
+  - csharp
+  - dotnet
+  - entity-framework
+  - sqlserver
 ---
 
-**Gestor Financiero Personal**
+## Wizard Track (Gestión Financiera)
 
-Sitio web que permite a los usuarios visualizar y gestionar su historial financiero mediante una interfaz amigable e informes gráficos.
+[![Repositorio](https://img.shields.io/badge/Repositorio-%23090b11?style=for-the-badge&logo=github&logoColor=white&labelColor=%23090b11)](https://github.com/J4F3ET/UD.WizardTrack)
+
+**Wizard Track – Gestión Financiera Personal**
+
+Plataforma backend robusta en ecosistema C# (.NET) gestionando persistencia e integridad de datos con Entity Framework y SQL Server.
 
 **Retos y Logros**
+
+* **Arquitectura en capas**: Diseñé lógica de negocio en capas para soportar alta escalabilidad y fácil mantenimiento técnico.
 
 * **Gestión estructurada de datos**: Implementé Entity Framework con SQL Server para organizar y almacenar los datos financieros de forma eficiente.
 

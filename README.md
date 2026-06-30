@@ -1,18 +1,18 @@
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmain--j4f3t.netlify.app%2F&up_message=On-line&up_color=%23008000&down_message=Offline&down_color=%23e61919&style=for-the-badge&labelColor=%230d1117)](https://main--j4f3t.netlify.app/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fj4f3t.netlify.app%2F&up_message=On-line&up_color=%23008000&down_message=Offline&down_color=%23e61919&style=for-the-badge&labelColor=%230d1117)](https://j4f3t.netlify.app/)
 <h1 align="center">
     Hi <img width="30px" alt="Cat with Colombian flag" title="meow co blob cats" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1629602156/48789/meow_co.png?1629602156">, I'm Jafet Stiven Lopez
 </h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">Backend Developer & Software Engineer from Colombia</h3>
 
 - 🔭 I’m currently working on  SL Consulting Insights & Arquetypos
 
-- 🌱 I’m currently learning **C#, .Net, Blazor**
+- 🌱 I’m currently learning **C#, .Net, Blazor, AWS**
 
-- 👨‍💻 All of my projects are available at [https://jafet.onrender.com/](https://jafet.onrender.com/)
+- 👥 Active member of **dev communities**
+
+- 👨‍💻 All of my projects are available at [https://j4f3t.netlify.app/](https://j4f3t.netlify.app/)
 
 - 📫 How to reach me **jafetstivenlopezzuniga@gmail.com**
-
-- ⚡ Fun fact **I need coffee**
 
 ## Connect with me:
 
@@ -21,14 +21,21 @@
 
 ## Languages and Tools:
 
-### Lenguages
+### Backend & Architecture
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,kafka)](https://skillicons.dev)
+
+### Infrastructure & Data
+
+[![My Skills](https://skillicons.dev/icons?i=docker,postgresql,mongodb,elasticsearch,firebase)](https://skillicons.dev)
+
+### Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,kotlin,javascript,typescript)](https://skillicons.dev)
 
-### Tools
+### Tools & Methodologies
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,aws,azure,docker,express,spring,firebase,git)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=dotnet,aws,azure,docker,spring,git,linux)](https://skillicons.dev)
 
 ## GitHub Stats:
 

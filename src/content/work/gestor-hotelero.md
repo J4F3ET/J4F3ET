@@ -1,39 +1,41 @@
 ---
-title: Gestor Hotelero
+title: Sistema Hotelero de Microservicios
 publishDate: 2023-05-07 00:00:00
 img: /assets/gestion-hotelera/IndexGestorDeHoteles.webp
-img_alt: Imagen del proyecto en su vista principal, donde se ven diferentes hoteles.
+img_alt: Imagen del proyecto en su vista principal, mostrando la arquitectura de microservicios.
 description: |
-  Sistema de gestión hotelera, de una cadena de hoteles para la empresa (ficticia) Tranqui Descanso.
+  Arquitectura escalable desarrollada con Java, Spring Cloud y API Gateway, apoyada por persistencia en PostgreSQL y contenedores Docker.
 status: Finalizado
 tags:
   - java
   - spring
-  - hibernate
+  - spring-cloud
   - docker
   - postgres
+  - kafka
+  - elasticsearch
 ---
 
-## Gestión Hotelera
+## Sistema Hotelero de Microservicios
 
 [![Repositorio](https://img.shields.io/badge/Repositorio-%23090b11?style=for-the-badge&logo=github&logoColor=white&labelColor=%23090b11)](https://github.com/J4F3ET/UD.BaseDeDatoAvanzada.ProyectoFinal)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgestion-hotelera.onrender.com&up_message=Desplegado&down_message=No%20desplegado&style=for-the-badge&label=Estado&labelColor=%23090b11)
 
-**Gestor Hotelero – TRANQUIDESCANSO S.A.**
+**Sistema Hotelero de Microservicios**
 
-Sistema backend para la administración de operaciones hoteleras, desarrollado con enfoque en eficiencia, escalabilidad y portabilidad.
+Arquitectura escalable desarrollada con Java, Spring Cloud y API Gateway, apoyada por persistencia en PostgreSQL y contenedores Docker.
 
 **Retos y Logros**
 
-* **Modelado eficiente**: Diseñé una base de datos estructurada con procedimientos, triggers y vistas que cubren los procesos clave del negocio hotelero.
+* **Arquitectura de microservicios**: Implementé una arquitectura escalable con Spring Cloud y API Gateway para la administración de operaciones hoteleras.
 
-* **Capa backend robusta**: Implementé servicios con Spring Boot, JPA y Hibernate para asegurar un manejo confiable de datos y operaciones.
+* **Comunicación asíncrona**: Integré Apache Kafka para la comunicación robusta y asíncrona entre microservicios.
+
+* **Monitoreo centralizado**: Configuré ELK Stack (Elasticsearch, Logstash, Kibana) para el monitoreo centralizado de logs.
 
 * **Portabilidad del sistema**: Utilicé Docker Compose para facilitar el despliegue del sistema en distintos entornos sin configuración adicional.
 
-* **Generación de datos y pruebas**: Automatizé la creación de datos de prueba y flujos ETL con Python para validar el comportamiento del sistema.
-
-* **Seguridad en proceso**: Estoy integrando Spring Security para reforzar la autenticación y proteger el acceso al sistema.
+* **Persistencia robusta**: Implementé PostgreSQL para el almacenamiento y persistencia de datos del negocio hotelero.
 
 ## Premisa
 

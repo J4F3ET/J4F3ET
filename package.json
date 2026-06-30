@@ -10,7 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.11.0",
-    "portafolio2023": "file:"
+    "astro": "^6.3.5"
   }
 }
