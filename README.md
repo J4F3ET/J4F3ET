@@ -4,9 +4,11 @@
 </h1>
 <h3 align="center">Backend Developer & Software Engineer from Colombia</h3>
 
-- 🔭 I’m currently working on  SL Consulting Insights & Arquetypos
+- 🔭 I’m currently working on **SL Consulting Insights & Arquetypos**
 
-- 🌱 I’m currently learning **C#, .Net, Blazor, AWS**
+- 🎓 Studying **Ingeniería Telemática** at Universidad Distrital Francisco José de Caldas
+
+- 🌱 Currently exploring **networking & distributed systems** — 5G Core labs (free5gc) and distributed nodes in Go
 
 - 👥 Active member of **dev communities**
 
@@ -23,7 +25,7 @@
 
 ### Backend & Architecture
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,go,kafka)](https://skillicons.dev)
 
 ### Infrastructure & Data
 
@@ -39,10 +41,10 @@
 
 ## GitHub Stats:
 
-![J4F3ET's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J4F3ET&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
+![J4F3ET's GitHub Stats](https://github-stats-extended.vercel.app/api?username=J4F3ET&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=J4F3ET&theme=github_dark&hide_border=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J4F3ET&theme=github_dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=J4F3ET&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=J4F3ET&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=J4F3ET&label=Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=J4F3ET&label=Views&color=blueviolet&style=flat)
