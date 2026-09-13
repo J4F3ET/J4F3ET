@@ -4,11 +4,11 @@
 </h1>
 <h3 align="center">Backend Developer & Software Engineer from Colombia</h3>
 
-- 🔭 I’m currently working on **SL Consulting Insights & Arquetypos**
+- 🔭 I'm currently working on **SLHumanik** (.NET MAUI, offline-first distributed systems)
 
 - 🎓 Studying **Ingeniería Telemática** at Universidad Distrital Francisco José de Caldas
 
-- 🌱 Currently exploring **networking & distributed systems** — 5G Core labs (free5gc) and distributed nodes in Go
+- 🌱 Currently deepening my skills in **.NET MAUI, distributed systems architecture, and SQL Server** — also exploring networking (5G Core labs with free5gc, distributed nodes in Go)
 
 - 👥 Active member of **dev communities**
 
