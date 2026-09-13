@@ -1,8 +1,8 @@
 ---
 title: Procesador Distribuido de Imágenes
 publishDate: 2024-06-01 00:00:00
-img: /assets/stock-1.webp
-img_alt: Imagen del proyecto mostrando la arquitectura de procesamiento distribuido.
+img: /assets/procesador-imagenes/DiagramaEntidadRelacion.svg
+img_alt: Diagrama entidad-relación de la base de datos del proyecto (usuarios e imágenes).
 description: |
   Construcción de arquitectura modular (Clean Architecture) orientada a eventos con Kafka para la orquestación eficiente y asíncrona de procesos pesados.
 status: En desarrollo
@@ -17,7 +17,7 @@ tags:
 
 ## Procesador Distribuido de Imágenes
 
-[![Repositorio](https://img.shields.io/badge/Repositorio-%23090b11?style=for-the-badge&logo=github&logoColor=white&labelColor=%23090b11)](https://github.com/J4F3ET/ME.RoadmapProcesadorImagenes)
+[![Repositorio](https://img.shields.io/badge/Repositorio-%23090b11?style=for-the-badge&logo=github&logoColor=white&labelColor=%23090b11)](https://github.com/J4F3ET/ME.Roadmap.Backend.image-processing-service)
 
 **Procesador Distribuido de Imágenes**
 
