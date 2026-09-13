@@ -1,8 +1,8 @@
 ---
 title: Sistema de Monitoreo Médico Distribuido
 publishDate: 2026-05-03 00:00:00
-img: /assets/stock-2.webp
-img_alt: Imagen genérica del proyecto — pendiente de reemplazar por una captura real.
+img: /assets/monitoreo-medico/Arch.excalidraw.svg
+img_alt: Diagrama de arquitectura del sistema, mostrando los nodos de coordinación y comunicación entre hospitales.
 description: |
   Sistema distribuido en Go para la coordinación y envío de datos médicos en tiempo real entre nodos, con elección de líder automática (algoritmo Bully modificado) y comunicación cifrada vía Tailscale.
 status: Finalizado
